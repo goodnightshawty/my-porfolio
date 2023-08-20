@@ -1,9 +1,9 @@
-# Портфолио: инженер по тестированию
+# Portfolio: Software Testing Engineer
 
-## Обо мне 
+## About Me
 
-Привет! Меня зовут ``{name}``, я начинающий тестировщик. <br>
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+Hello! My name is Iskandar, and I am a software tester.
+In this repository, you can find some of my projects completed during my learning and practice.
 <br>
 
 ## Навыки и технологии
