@@ -6,23 +6,23 @@ Hello! My name is Iskandar, and I am a software tester.
 In this repository, you can find some of my projects completed during my learning and practice.
 <br>
 
-## Навыки и технологии
+## Skills and Technologies
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
 
 
 
-## Проекты
+## Projects
 
-<p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
-<p>Что нужно было сделать:<p>
+<p> Testing of Web Application for Teachers by Skyeng</p>
+<p>Tasks Completed::<p>
 <ol>
-  <li>Задача №1</li>
-  <li>Задача №2.</li>
+  <li>Task №1</li>
+  <li>Task №2.</li>
 </ol>
 
-<p>Как решала(-а): краткое описание решения (автореферат)<p>
+<p>Approach: Brief description of the solution (self-reflection)<p>
 
 > <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
