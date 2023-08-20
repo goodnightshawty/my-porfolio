@@ -16,19 +16,18 @@ In this repository, you can find some of my projects completed during my learnin
 
 ## Projects
 
-<p> Project 1: Testing of Web Application for Teachers by Skyeng</p>
+<p> Project 1: Testing "Personal Event" Functionality in Skyeng Web Application for Teachers</p>
+Project Description: Teachers can use personal events for their own meetings.
 <p>Tasks Completed::<p>
 <ol>
-  <li>Task №1</li>
-  <li>Task №2.</li>
+  <li>TProduct verification using functional and non-functional testing.</li>
+  <li>Product verification using API.</li>
 </ol>
 
 <p>Approach: Brief description of the solution (self-reflection)<p>
 
 > <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Project link</a>
-> <p> Username: dehico8286@fsouda.com </p>
-> <p> Password: 16Jan2023 </p>
- 
+
  <p>Conclusions::<p>
 <ol>
   <li>Outcome №1</li>
@@ -38,22 +37,6 @@ In this repository, you can find some of my projects completed during my learnin
 
 <br> 
 
-<p> Project 2: Testing of Teacher's Dashboard in Skyeng Application</p>
-<p>Tasks Completed:<p>
-<ol>
-  <li>Task №1</li>
-  <li>Task №2.</li>
-</ol>
-
-<p>Approach: Brief description of the solution (self-reflection)<p>
-
->  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Project link</a>
- 
- <p>Conclusions::<p>
-<ol>
-  <li>Outcome №1</li>
-  <li>Outcome №2</li>
-</ol>
 
 
 
