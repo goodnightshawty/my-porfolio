@@ -36,7 +36,7 @@ I utilized Qase.io and Sitechko applications for creating test cases and checkli
   <li>API testing was also successful.</li>
 </ol>
 
-Through this project, I learned to create well-structured test cases and checklists, perform testing without documentation, create product decomposition, test requirements, and make API requests during API testing.
+Through my first project, I learned how to properly create test cases and checklists, perform testing without documentation, create product decomposition, test requirements, write bug reports, and make requests during API testing.
 <br> 
 
 ## Contact Information
