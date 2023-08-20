@@ -4,7 +4,7 @@
 
 Hello! My name is Iskandar, and I am a software tester.
 In this repository, you can find some of my projects completed during my learning and practice.
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbr.com%2Fhunter-x-hunter-isaac-netero-facts%2F&psig=AOvVaw0WRPPHA9hjb8R5lKzpjx6Q&ust=1692606955947000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDKqrXq6oADFQAAAAAdAAAAABAR)
+![logo](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/Netero-Featured.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5)
 <br>
 
 ## Skills and Technologies
