@@ -24,13 +24,13 @@ Project Description: Teachers can use personal events for their own meetings.
   <li>Product verification using API.</li>
 </ol>
 
-I utilized Qase.io and Sitechko applications for creating test cases and checklists. For API testing, I employed Postman. For the first task, I divided it into 5 steps: 1. Understanding the requirements, 2. Analyzing stakeholders and creating acceptance test cases, 3. Testing requirements, 4. Product decomposition, 5. Creating a Test Plan. Similarly, I divided the second task into steps: 1. Studying the API documentation, 2. Creating a Postman collection, 3. Adding to the testing report.
-
 <p>Approach: Brief description of the solution (self-reflection)<p>
+
+I utilized Qase.io and Sitechko applications for creating test cases and checklists. For API testing, I employed Postman. For the first task, I divided it into 5 steps: 1. Understanding the requirements, 2. Analyzing stakeholders and creating acceptance test cases, 3. Testing requirements, 4. Product decomposition, 5. Creating a Test Plan. Similarly, I divided the second task into steps: 1. Studying the API documentation, 2. Creating a Postman collection, 3. Adding to the testing report.
 
 > <a href="https://start.skyeng.ru">Project link</a>
 
- <p>Conclusions::<p>
+ <p>Conclusions:<p>
 <ol>
   <li>The testing was successful; the old functionality for rescheduling and canceling lessons is fully operational.</li>
   <li>API testing was also successful.</li>
