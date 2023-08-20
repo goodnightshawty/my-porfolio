@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hello! My name is Iskandar, and I am a software tester.
+Hello! My name is Iskandar Rakhimov, and I am a software tester.
 In this repository, you can find some of my projects completed during my learning and practice.
-![logo](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/Netero-Featured.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5)
+![love](https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/Netero-Featured.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5)
 <br>
 
 ## Skills and Technologies
@@ -59,4 +59,6 @@ In this repository, you can find some of my projects completed during my learnin
 
 ## Contact Information
 - Email: iskandarrakhimov01@gmail.com
+- [VK](https://vk.com/idiskanduar)
+- [Telegram](https://web.telegram.org/k/): @goodnightshawty
 
