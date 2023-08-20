@@ -16,7 +16,7 @@ In this repository, you can find some of my projects completed during my learnin
 
 ## Projects
 
-<p> Testing of Web Application for Teachers by Skyeng</p>
+<p> Project 1: Testing of Web Application for Teachers by Skyeng</p>
 <p>Tasks Completed::<p>
 <ol>
   <li>Task №1</li>
