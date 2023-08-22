@@ -20,7 +20,7 @@ In this repository, you can find some of my projects completed during my learnin
 Project Description: Teachers can use personal events for their own meetings.
 <p>Tasks Completed::<p>
 <ol>
-  <li>TProduct verification using functional and non-functional testing.</li>
+  <li>Product verification using functional and non-functional testing.</li>
   <li>Product verification using API.</li>
 </ol>
 
