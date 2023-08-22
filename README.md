@@ -26,7 +26,7 @@ Project Description: Teachers can use personal events for their own meetings.
 
 <p>Approach: Brief description of the solution (self-reflection)<p>
 
-I utilized Qase.io and Sitechko applications for creating test cases and checklists. For API testing, I employed Postman. For the first task, I divided it into 5 steps: 1. Understanding the requirements, 2. Analyzing stakeholders and creating acceptance test cases, 3. Testing requirements, 4. Product decomposition, 5. Creating a Test Plan. Similarly, I divided the second task into steps: 1. Studying the API documentation, 2. Creating a Postman collection, 3. Adding to the testing report.
+I used Qase.io and Sitechko for creating test cases and checklists. For API testing, I employed Postman. For the first task, I divided it into 5 steps: 1. Understanding the requirements, 2. Analyzing stakeholders and creating acceptance test cases, 3. Testing requirements, 4. Product decomposition, 5. Creating a Test Plan. Similarly, I divided the second task into steps: 1. Studying the API documentation, 2. Creating a Postman collection, 3. Adding to the testing report.
 
 > <a href="https://start.skyeng.ru">Project link</a>
 
